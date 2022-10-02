@@ -1,2 +1,3 @@
 # flashcards-for-english
-flashcards for studying English words
+Flashcards for memorizing abbreviations.  
+py or exe file and eng.csv should be in the same directory.
